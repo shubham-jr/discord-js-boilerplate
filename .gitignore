@@ -1,0 +1,4 @@
+node_modules/
+plopfile.js
+plop_templates
+.env
